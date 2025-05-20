@@ -1,0 +1,8 @@
+flask
+torch
+torchaudio
+transformers
+numpy
+werkzeug
+gtts
+scipy
